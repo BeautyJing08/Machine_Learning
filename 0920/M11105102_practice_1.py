@@ -39,8 +39,26 @@ for i in range(0, len(data)):
         data.loc[i, 'revise'] = data.loc[i, 'score'] + 5
     elif data.loc[i, 'type'] == "B":
         data.loc[i, 'revise'] = data.loc[i, 'score'] + 3
+
+    elif data.loc[i,'revise'] >= 100: #如果revise的答案>=100的話，滿分是100，不能超過100
+        data.loc[i,'revise'] ==100
     else:
         data.loc[i, 'revise'] = data.loc[i, 'score']
 
-print("==========我是有更新成績的資料表=============")
+### STEP 04 : 增加一個欄位叫做"Grade" 來寫說學生是Pass or Fail
+data['Grade'] = [''] * len(data) #創建一個新欄位名叫做Grade，並且列數為 len(data) 這樣資料表的尺寸才會正確 *** 同時設定了"Grade"是字串欄位
+# print(data['Grade'].dtype) #查看"Grade"的資料型別，字串是object
+# data['Grade'] = data['Grade'].astype(str) #將data['Grade']的資料欄位，全部修改為"字串"型別(astype(str))
+
+# data['Grade'] = 0
+# print(data['Grade'].dtype) #此兩句是
+
+for i in range(0, len(data)):
+    if data.loc[i, 'revise'] >= 60 :
+        data.loc[i, 'Grade'] = "Pass"
+    else :
+        data.loc[i, 'Grade'] = "Fail"
+
+
+print("==========我是有更新成績&是否及格的資料表=============")
 print(data)
