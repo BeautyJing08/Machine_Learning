@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fb1ecdb-efda-43ea-b1fd-f17c143219d6" name="Changes" comment="" />
+    <list default="true" id="5fb1ecdb-efda-43ea-b1fd-f17c143219d6" name="Changes" comment="first git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2VgckxEN2Mca0wCNpFza69iBQIk" />
   <component name="ProjectViewState">
@@ -19,11 +22,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Jing/PycharmProjects/Machine_Learning",
+    "last_opened_file_path": "C:/Users/Jing/PycharmProjects/Machine_Learning/0920",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jing\PycharmProjects\Machine_Learning\0920" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jing\PycharmProjects\Machine_Learning" />
     </key>
@@ -65,6 +71,18 @@
       <option name="presentableId" value="Default" />
       <updated>1695261311183</updated>
     </task>
+    <task id="LOCAL-00001" summary="first git">
+      <created>1695264181270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695264181270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first git" />
+    <option name="LAST_COMMIT_MESSAGE" value="first git" />
   </component>
 </project>
