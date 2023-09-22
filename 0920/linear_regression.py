@@ -17,7 +17,7 @@ import os
 #
 # # data = pd.read_csv('D:\\Google_Stock_Price_Train.csv')
 # cwd = os.getcwd()
-# file_path = rf"{cwd}\M11105102_Google_Stock_Price_Train.csv"
+# file_path = rf"{cwd}\Google_Stock_Price_Train.csv"
 # data = pd.read_csv(file_path) #讀取資料
 #
 # print(data)

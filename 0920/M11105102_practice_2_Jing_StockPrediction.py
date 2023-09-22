@@ -10,7 +10,7 @@ regr = linear_model.LinearRegression()  # 從sklearn中拿出linear_model (線�
 
 # data = pd.read_csv('D:\\Google_Stock_Price_Train.csv')
 cwd = os.getcwd()
-file_path = rf"{cwd}\M11105102_Google_Stock_Price_Train.csv"
+file_path = rf"{cwd}\Google_Stock_Price_Train.csv"
 df = pd.read_csv(file_path)  # 讀取資料
 print("=============印出原始資料表 df ========================")
 print(df)  # 會看到df資料表是原始資料表，擁有Date、Open、High、Low、Close、Volume欄位
