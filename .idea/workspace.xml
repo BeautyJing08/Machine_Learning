@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fb1ecdb-efda-43ea-b1fd-f17c143219d6" name="Changes" comment="finish practice_1">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5fb1ecdb-efda-43ea-b1fd-f17c143219d6" name="Changes" comment="線性回歸程是完全跨某">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0920/Readme_pratice_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0920/Readme_practice_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0920/M11105102_linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/0920/M11105102_linear_regression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,14 +24,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Jing/PycharmProjects/Machine_Learning/0920",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jing/PycharmProjects/Machine_Learning/0920&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jing\PycharmProjects\Machine_Learning\0920" />
@@ -41,7 +40,49 @@
       <recent name="C:\Users\Jing\PycharmProjects\Machine_Learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.M11105102_linear_regression">
+  <component name="RunManager" selected="Python.Jing_Test_StockPrediction">
+    <configuration name="Jing_LinerTest_sizeAndDistanceAndPrice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machine_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0920" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Jing\PycharmProjects\Machine_Learning\0920\Jing_LinerTest_sizeAndDistanceAndPrice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Jing_Test_StockPrediction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machine_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0920" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0920/Jing_Test_StockPrediction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="M11105102_linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Jing_Test_StockPrediction" />
+        <item itemvalue="Python.Jing_LinerTest_sizeAndDistanceAndPrice" />
         <item itemvalue="Python.M11105102_linear_regression" />
         <item itemvalue="Python.M11105102_practice_1 (1)" />
         <item itemvalue="Python.M11105102_practice_1" />
@@ -143,13 +186,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695266567230</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="線性回歸程是完全跨某">
+      <created>1695268236670</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695268236670</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first git" />
     <MESSAGE value="add Read me file to talk about this assignment" />
     <MESSAGE value="finish practice_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish practice_1" />
+    <MESSAGE value="線性回歸程是完全跨某" />
+    <option name="LAST_COMMIT_MESSAGE" value="線性回歸程是完全跨某" />
   </component>
 </project>

@@ -12,7 +12,7 @@ import os
 # print(pd.__version__) #印出 pandas version
 
 ### STEP 01 : 讀取資料表 ####
-# file_path = r"D:\OneDrive\OneDrive - 國立臺灣科技大學\A SI5032701 機器學習\0913 - week02\20230913_machine_learning\M11105102_assignment.csv"
+# file_path = r"D:\OneDrive\OneDrive - 國立臺灣科技大學\A SI5032701 機器學習\0913 - week02\20230913_machine_learning\assignment.csv"
 cwd = os.getcwd()
 file_path = rf"{cwd}\M11105102_assignment.csv"
 data = pd.read_csv(file_path)
