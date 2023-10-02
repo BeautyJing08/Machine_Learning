@@ -4,6 +4,7 @@ import numpy as np
 print("M11105102 王菁")
 
 def f(x):  # 宣告題目的圖形
+
     return x ** 2
 
 
