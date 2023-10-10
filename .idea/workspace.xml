@@ -261,7 +261,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696920476023</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="assignment 4 = 寫出一個function讀取資料表內容">
+      <created>1696920548257</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696920548257</updated>
+    </task>
+    <task id="LOCAL-00014" summary="assignment 4 = 寫出一個function讀取資料表內容">
+      <created>1696920565037</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696920565037</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

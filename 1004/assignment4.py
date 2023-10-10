@@ -3,9 +3,6 @@ import pandas as pd
 print("M11105102 王菁 HW4")
 print("寫出一個function，讀取資料表，把兩筆Open最大值資料挑出來並刪除 ")
 
-# regr = linear_model.LinearRegression()  # 從sklearn中拿出linear_model (線性回歸模型) (一個空的線性回歸模型)
-
-# data = pd.read_csv('D:\\Google_Stock_Price_Train.csv')
 cwd = os.getcwd()
 file_path = rf"{cwd}\Google_Stock_Price_Train.csv"
 df = pd.read_csv(file_path)  # 讀取資料
@@ -17,13 +14,6 @@ print(df)  # 會看到df資料表是原始資料表，擁有Date、Open、High�
 # print(train)
 
 train = df.iloc[0:561, :]  # 設定一個train 資料表，是從df拿561筆內容
-
-
-# def readStockPriceCSV(Open, Close, Num):
-#     print(Open)
-#     return
-#
-# readStockPriceCSV(train[['Open']] ,train[['Close']], 2 )
 
 def readStockPriceCSVWithTime(df, StartDate, EndDate, Num):
     print("===========印出filter_df===============")
