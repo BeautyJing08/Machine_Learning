@@ -1,5 +1,7 @@
 import os
 import pandas as pd
+print("M11105102 王菁 HW4")
+print("寫出一個function，讀取資料表，把兩筆Open最大值資料挑出來並刪除")
 
 # regr = linear_model.LinearRegression()  # 從sklearn中拿出linear_model (線性回歸模型) (一個空的線性回歸模型)
 

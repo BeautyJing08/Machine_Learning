@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fb1ecdb-efda-43ea-b1fd-f17c143219d6" name="Changes" comment="add 1004 file">
-      <change afterPath="$PROJECT_DIR$/1004/assignment4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1004/readMe_HM4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1004/decision_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/1004/decision_tree.py" afterDir="false" />
+    <list default="true" id="5fb1ecdb-efda-43ea-b1fd-f17c143219d6" name="Changes" comment="assignment 4 = 寫出一個function讀取資料表內容">
+      <change beforePath="$PROJECT_DIR$/1004/assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1004/assignment4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +247,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696388521323</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="assignment 4 = 寫出一個function讀取資料表內容">
+      <created>1696920432624</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696920432624</updated>
+    </task>
+    <task id="LOCAL-00012" summary="assignment 4 = 寫出一個function讀取資料表內容">
+      <created>1696920476023</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696920476023</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -263,6 +273,7 @@
     <MESSAGE value="commit and push" />
     <MESSAGE value="commit and push txt file to talk about the conclusion" />
     <MESSAGE value="add 1004 file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 1004 file" />
+    <MESSAGE value="assignment 4 = 寫出一個function讀取資料表內容" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 4 = 寫出一個function讀取資料表內容" />
   </component>
 </project>
