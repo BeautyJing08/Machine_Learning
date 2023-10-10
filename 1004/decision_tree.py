@@ -40,7 +40,7 @@ a = dataset.describe()
 
 # In[]: decision tree for classification
 
-%matplotlib inline
+# %matplotlib inline
 from sklearn import datasets
 import pandas as pd
 import numpy as np
