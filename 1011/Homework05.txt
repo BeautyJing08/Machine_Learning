@@ -1,0 +1,9 @@
+Hi all,  
+    Please submit your assignments as shown in the following. 
+
+1.  以 google stock 資料每五天求 open 的linear regression 斜率
+2.  利用 Iris data set 並使用 kmean 驗證變數是否有解釋能力
+3.   應用 kNN 至 Iris data set
+
+With warm regards,
+Stanley
