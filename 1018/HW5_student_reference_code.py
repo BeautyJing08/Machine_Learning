@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import os
 
+print("M11105102 王菁")
+print("Assignment 10")
+
 cwd = os.getcwd()
 file_path = rf"{cwd}\Google_Stock_Price_Train.csv"
 df = pd.read_csv(file_path)
