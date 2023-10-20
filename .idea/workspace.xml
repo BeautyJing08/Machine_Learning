@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fb1ecdb-efda-43ea-b1fd-f17c143219d6" name="Changes" comment="assignment 4 = 寫出一個function讀取資料表內容">
+    <list default="true" id="5fb1ecdb-efda-43ea-b1fd-f17c143219d6" name="Changes" comment="assignment 5 = 用每五筆資料求斜率">
+      <change afterPath="$PROJECT_DIR$/1018/Google_Stock_Price_Train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1018/HW5_student_reference_code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +42,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Jing/PycharmProjects/Machine_Learning/1011",
+    "last_opened_file_path": "C:/Users/Jing/PycharmProjects/Machine_Learning/1018",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jing\PycharmProjects\Machine_Learning\1018" />
       <recent name="C:\Users\Jing\PycharmProjects\Machine_Learning\1011" />
       <recent name="C:\Users\Jing\PycharmProjects\Machine_Learning\0920" />
     </key>
@@ -53,8 +56,8 @@
       <recent name="C:\Users\Jing\PycharmProjects\Machine_Learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.assignment5">
-    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.HW5_student_reference_code (1)">
+    <configuration name="HW5_student_reference_code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +65,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1004" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1018" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1004/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1018/HW5_student_reference_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW5_student_reference_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machine_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1018/reference" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1018/reference/HW5_student_reference_code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,27 +141,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decision_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Machine_Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1004" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1004/decision_tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="random_forest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HW5_student_reference_code (1)" />
+        <item itemvalue="Python.HW5_student_reference_code" />
         <item itemvalue="Python.assignment5" />
         <item itemvalue="Python.random_forest" />
         <item itemvalue="Python.assignment4" />
-        <item itemvalue="Python.01" />
-        <item itemvalue="Python.decision_tree" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696920600758</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="assignment 5 = 用每五筆資料求斜率">
+      <created>1697531278351</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697531278351</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -296,6 +306,7 @@
     <MESSAGE value="commit and push txt file to talk about the conclusion" />
     <MESSAGE value="add 1004 file" />
     <MESSAGE value="assignment 4 = 寫出一個function讀取資料表內容" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment 4 = 寫出一個function讀取資料表內容" />
+    <MESSAGE value="assignment 5 = 用每五筆資料求斜率" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 5 = 用每五筆資料求斜率" />
   </component>
 </project>
